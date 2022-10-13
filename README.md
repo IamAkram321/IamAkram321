@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Akram</h1>
-<h3 align="center">A passionate guy in tech from Nepal</h3>
+<h1 align="center">HI I'M AKRAM!!!</h1>
+<h1 align="center">WELCOME TO MY PROFILE</h2>
+<h1 align="center">A PASSIONATE GUY IN TECH FROM NEPAL</h3>
 <img align="right" alt="coding" width="400" src="https://gfycat.com/gifs/search/square+in+circle">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamakram321&label=Profile%20views&color=0e75b6&style=flat" alt="iamakram321" /> </p>
