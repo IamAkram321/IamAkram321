@@ -7,7 +7,7 @@
         src="https://komarev.com/ghpvc/?username=iamakram321&label=Profile%20views&color=0e75b6&style=flat"
         alt="iamakram321" /> </p>
 
-- 🌱 I’m currently learning **C,C++,HTML,CSS,JavaScript,Python and Flask Demonstration**
+- 🌱 I’m currently learning Full Stack Web Development**
 
 - 💬 Ask me about **Anything, If I know that's ok if not then I'm not OK(●'◡'●)**
 
