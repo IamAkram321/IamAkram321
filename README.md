@@ -46,6 +46,7 @@
             alt="python" width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"
             width="40" height="40" /> </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 </p>
 
 <p><img align="left"
