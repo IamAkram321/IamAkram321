@@ -20,12 +20,12 @@
     <a href="https://twitter.com/im_akram1" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="im_akram1" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/akramshahjada" target="blank"><img align="center"
+<!--     <a href="https://linkedin.com/in/akramshahjada" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="akramshahjada" height="30" width="40" /></a>
-    <a href="https://instagram.com/akram.shahjada" target="blank"><img align="center"
+            alt="akramshahjada" height="30" width="40" /></a> -->
+<!--     <a href="https://instagram.com/akram.shahjada" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="akram.shahjada" height="30" width="40" /></a>
+            alt="akram.shahjada" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
