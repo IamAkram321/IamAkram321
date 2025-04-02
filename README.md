@@ -67,7 +67,8 @@
 ---
 
 <h3 align="center">🏆 LeetCode Stats</h3>
-<p align="center">IamAkram321?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" />
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/IamAkram321?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
