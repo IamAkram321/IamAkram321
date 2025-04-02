@@ -1,26 +1,28 @@
-![banner](https://github.com/IamAkram321/IamAkram321/blob/main/banner1.jpg) <!-- We'll upgrade this below -->
+![banner](https://github.com/IamAkram321/IamAkram321/blob/main/banner1.jpg) <!-- Still waiting on banner confirmation! -->
 
 <h1 align="center">Hey there! 👋 I’m MD Akram</h1>
-<h3 align="center">Tech Enthusiast | Problem Solver | Full Stack Dev | Nepal 🇳🇵</h3>
+<h3 align="center">Tech Enthusiast | Full Stack Dev | Nepal 🇳🇵</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=iamakram321&label=Profile%20Views&color=ff2e63&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Coding%20is%20Art-1f1f1f?style=flat-square&logo=codepen&logoColor=fff" alt="Coding Badge" />
 </div>
 
-<p align="right">
+<p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="300" />
 </p>
 
 ---
 
 ### 🌟 **What I’m Up To**
-- Mastering **Full Stack Web Development**  
-- Diving deep into **Backend Technologies**    
-
+- Mastering **Full Stack Web Development**
+- **Data Structure and Algorithms**
+- Diving deep into **Backend Technologies**  
+ 
 ### 💬 **Let’s Talk About**
 - **Web Dev**: React, Tailwind, JavaScript  
-- **Programming**: C++, JS, mySQL  
+- **Programming**: C++, JS, MySQL  
+ 
 
 ### 📩 **Get in Touch**
 - **Email**: [akramshahjada786@gmail.com](mailto:akramshahjada786@gmail.com)  
@@ -33,7 +35,6 @@
   <a href="https://twitter.com/im_akram1" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <!-- Add more socials like LinkedIn or Discord if you have them! -->
 </p>
 
 ---
@@ -52,7 +53,7 @@
 
 ---
 
-<h3 align="center">📈 My GitHub Journey</h3>
+<h3 align="center">📊 My GitHub Journey</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamakram321&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
@@ -61,6 +62,12 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamakram321&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<h3 align="center">🏆 LeetCode Stats</h3>
+<p align="center">IamAkram321?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
