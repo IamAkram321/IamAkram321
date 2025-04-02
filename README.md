@@ -1,7 +1,7 @@
 ![banner](https://github.com/IamAkram321/IamAkram321/blob/main/banner1.jpg) <!-- Still waiting on banner confirmation! -->
 
 <h1 align="center">Hey there! 👋 I’m MD Akram</h1>
-<h3 align="center">Tech Enthusiast Problem Solver | Web Dev | Nepal 🇳🇵</h3>
+<h3 align="center">Tech Enthusiast | Problem Solver | Web Dev | Nepal 🇳🇵</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=iamakram321&label=Profile%20Views&color=ff2e63&style=flat-square" alt="Profile Views" />
