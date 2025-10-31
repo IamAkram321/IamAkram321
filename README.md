@@ -86,14 +86,10 @@
 
 ---
 
-## 🏆 LeetCode & GeeksforGeeks Stats
+## 🏆 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/IamAkram321?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <img src="https://gfg-streak-stats.vercel.app/?user=iamakram&theme=dark&border=none" alt="GFG Streak Stats" />
 </p>
 
 ---
