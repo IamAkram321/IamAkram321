@@ -37,7 +37,7 @@
 
 ## 💼 Highlights
 
-✔️ **Strong in DSA** — 500+ problems solved across [LeetCode](https://leetcode.com/IamAkram321/) & [GFG](https://auth.geeksforgeeks.org/user/akramshahjada786/practice/)  
+✔️ **Strong in DSA** — 500+ problems solved across [LeetCode](https://leetcode.com/IamAkram321/) & [GFG](https://www.geeksforgeeks.org/user/iamakram/)  
 ✔️ **Built 5+ real-world projects** using React, Node.js, MongoDB, and Express  
 ✔️ **Hands-on with REST APIs, Authentication (JWT), and Database Design**  
 ✔️ Passionate about **clean architecture**, reusable components & optimization  
@@ -86,10 +86,14 @@
 
 ---
 
-## 🏆 LeetCode Stats
+## 🏆 LeetCode & GeeksforGeeks Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/IamAkram321?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://gfg-streak-stats.vercel.app/?user=iamakram&theme=dark&border=none" alt="GFG Streak Stats" />
 </p>
 
 ---
