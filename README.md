@@ -58,12 +58,14 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 💬 [**Collaborative Real-Time Code Editor**](https://github.com/IamAkram321/Code-Editor) | Designed a **real-time collaborative editor** enabling 50+ users to code simultaneously with under 100ms latency using **WebSockets** and **Dockerized backend**. | React, Node.js, Socket.io, MongoDB, Docker |
-| 🤖 [**AI-Powered Fraud Detection System**](https://github.com/IamAkram321/Fraud-Detection-App) | Built a **machine learning model** detecting fraudulent transactions with **92% accuracy** on 500K+ records, reducing manual fraud reviews by 70%. | Python, scikit-learn, pandas, NumPy |
-| 🏥 [**ICU Monitoring System (IoT)**](#) | Developed a **real-time patient monitoring system** using **ESP32** sensors and **Firebase**, providing instant vitals visualization and alerts. | IoT, C++, Firebase |
-| ⚙️ [**High-Performance Huffman Compressor**](https://github.com/IamAkram321/Huffman-Compressor) | Engineered a **custom Huffman compression algorithm** achieving 69% file size reduction and compiled to **WebAssembly** for browser-based optimization. | C++, WebAssembly, JavaScript |
+| 📊 [**AI-Driven Job Application Tracker**](https://github.com/IamAkram321/Job-Application-Tracker) | Built a full-stack system managing **100+ job applications** with interactive dashboards, analytics, advanced filters, and secure JWT authentication. Boosted user productivity by **40%** with optimized workflows. | React 19, Node.js, Express, MongoDB, Tailwind CSS |
+| 💬 [**Collaborative Real-Time Code Editor**](https://github.com/IamAkram321/Code-Editor) | Designed a **real-time collaborative editor** enabling 50+ users to code simultaneously with under 100ms latency using **WebSockets**. Includes compiler, live cursors, chat, and auto-formatting. | React, Node.js, Socket.io, MongoDB |
+| 🤖 [**AI-Powered Fraud Detection System**](https://github.com/IamAkram321/Fraud-Detection-App) | Built a **machine learning model** detecting fraudulent transactions with **92% accuracy** across 500K+ records, reducing manual fraud review by 70%. | Python, scikit-learn, pandas, NumPy |
+| 🏥 [**ICU Monitoring System (IoT)**](#) | Developed a **real-time patient monitoring system** using **ESP32** sensors and **Firebase**, enabling continuous vitals tracking and alert notifications. | IoT, C++, Firebase |
+| ⚙️ [**High-Performance Huffman Compressor**](https://github.com/IamAkram321/Huffman-Compressor) | Engineered a **custom Huffman compression algorithm** achieving **69% file size reduction** and ported it to **WebAssembly** for in-browser performance. | C++, WebAssembly, JavaScript |
 
 ---
+
 
 ## 📊 Stats & Activity
 
