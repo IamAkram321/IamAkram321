@@ -58,11 +58,11 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 📊 [**AI-Driven Job Application Tracker**](https://github.com/IamAkram321/Job-Application-Tracker) | Built a full-stack system managing **100+ job applications** with interactive dashboards, analytics, advanced filters, and secure JWT authentication. Boosted user productivity by **40%** with optimized workflows. | React 19, Node.js, Express, MongoDB, Tailwind CSS |
-| 💬 [**Collaborative Real-Time Code Editor**](https://github.com/IamAkram321/Code-Editor) | Designed a **real-time collaborative editor** enabling 50+ users to code simultaneously with under 100ms latency using **WebSockets**. Includes compiler, live cursors, chat, and auto-formatting. | React, Node.js, Socket.io, MongoDB |
-| 🤖 [**AI-Powered Fraud Detection System**](https://github.com/IamAkram321/Fraud-Detection-App) | Built a **machine learning model** detecting fraudulent transactions with **92% accuracy** across 500K+ records, reducing manual fraud review by 70%. | Python, scikit-learn, pandas, NumPy |
-| 🏥 [**ICU Monitoring System (IoT)**](#) | Developed a **real-time patient monitoring system** using **ESP32** sensors and **Firebase**, enabling continuous vitals tracking and alert notifications. | IoT, C++, Firebase |
-| ⚙️ [**High-Performance Huffman Compressor**](https://github.com/IamAkram321/Huffman-Compressor) | Engineered a **custom Huffman compression algorithm** achieving **69% file size reduction** and ported it to **WebAssembly** for in-browser performance. | C++, WebAssembly, JavaScript |
+| ⚡ [**Distributed Rate Limiter**](https://github.com/IamAkram321/distributed-rate-limiter) | Built a **Redis-backed distributed rate limiter** using Express middleware to enforce per-API-key request quotas. Benchmarked under concurrent traffic achieving **~7k req/sec with ~6ms latency**, returning `429 Too Many Requests` with rate-limit headers when limits are exceeded. | Node.js, Express, Redis, Autocannon |
+| 💬 [**Collaborative Real-Time Code Editor**](https://github.com/IamAkram321/Code-Editor) | Designed a **real-time collaborative editor** enabling **50+ users** to code simultaneously with under **100ms latency** using WebSockets. Includes compiler integration, live cursors, chat, and auto-formatting. | React, Node.js, Socket.io, MongoDB |
+| 📊 [**AI-Driven Job Application Tracker**](https://github.com/IamAkram321/Job-Application-Tracker) | Built a full-stack system managing **100+ job applications** with interactive dashboards, analytics, advanced filters, and secure JWT authentication, improving productivity by **40%**. | React, Node.js, Express, MongoDB, Tailwind CSS |
+| 🤖 [**AI-Powered Fraud Detection System**](https://github.com/IamAkram321/Fraud-Detection-App) | Developed a **machine learning model** detecting fraudulent transactions with **92% accuracy** across **500K+ records**, reducing manual fraud review by **70%**. | Python, scikit-learn, pandas, NumPy |
+| ⚙️ [**High-Performance Huffman Compressor**](https://github.com/IamAkram321/Huffman-Compressor) | Implemented a **Huffman compression algorithm** achieving **~69% file size reduction** and optimized it for performance using C++ data structures. | C++, Data Structures |
 
 ---
 
